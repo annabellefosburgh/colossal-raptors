@@ -1,4 +1,4 @@
-# Title [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# E-Commerce Backend using Sequelize [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 This e-commerce backend allows you to view different categories, products, and tags within a business. You can create, update, or delete an item in any of these categories to keep inventory and business information up to date. 
