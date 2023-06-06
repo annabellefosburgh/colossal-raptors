@@ -9,7 +9,7 @@ This e-commerce backend allows you to view different categories, products, and t
 [3. Repository](#Repository)
 [4. Walkthrough](#Walkthrough)
 [5. Contributors](#Contributors)
-[6. Example Images](#Example Images)
+[6. Example Images](#Example-Images)
 [7. Sources](#Sources)
 [8. License](#License)
 
