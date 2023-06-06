@@ -1,5 +1,5 @@
-const { Model, DataTypes } = require('sequelize');
-
+const { Model } = require('sequelize');
+var DataTypes = require('sequelize/lib/data-types');
 const sequelize = require('../config/connection');
 
 class ProductTag extends Model { }
@@ -13,14 +13,14 @@ ProductTag.init(
       autoIncrement: true,
     },
     product_id: {
-      type: DataType.INTEGER,
+      type: DataTypes.INTEGER,
       references: {
         model: 'product',
         key: 'id',
       },
     },
     tag_id: {
-      type: DataTyp.INTEGER,
+      type: DataTypes.INTEGER,
       references: {
         model: 'tag',
         key: 'id',
