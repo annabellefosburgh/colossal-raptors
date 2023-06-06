@@ -4,14 +4,14 @@
 This e-commerce backend allows you to view different categories, products, and tags within a business. You can create, update, or delete an item in any of these categories to keep inventory and business information up to date. 
 
 ## Table of Contents
-[1. Installation](#Installation)
-[2. Usage](#Usage)
-[3. Repository](#Repository)
-[4. Walkthrough](#Walkthrough)
-[5. Contributors](#Contributors)
-[6. Example Images](#Example-Images)
-[7. Sources](#Sources)
-[8. License](#License)
+[1. Installation](#Installation)  
+[2. Usage](#Usage)  
+[3. Repository](#Repository)  
+[4. Walkthrough](#Walkthrough)  
+[5. Contributors](#Contributors)  
+[6. Example Images](#Example-Images)  
+[7. Sources](#Sources)  
+[8. License](#License)  
 
 ## Installation
 Copy the starter code, and be sure to run an npm install. Then, start the application by running the command "npm run seed".
